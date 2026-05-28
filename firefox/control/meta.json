@@ -1,0 +1,9 @@
+{
+  "name": "firefox",
+  "version": "1.0.0",
+  "arch": "amd64",
+  "description": "Przeglądarka Firefox dla LawaOS",
+  "maintainer": "Krzysztof",
+  "dependencies": []
+
+}
